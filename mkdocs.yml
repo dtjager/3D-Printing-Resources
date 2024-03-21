@@ -16,13 +16,13 @@ theme:
   palette:
     - scheme: slate
 
-# plugins:
-#   - social
+ plugins:
+   - social
 
-# extra:
-#   social:
-#     - icon: fontawesome/brands/github-alt
-#       link: https://github.com/james-willett
+ extra:
+   social:
+     - icon: fontawesome/brands/github-alt
+       link: https://github.com/dtjager
 #     - icon: fontawesome/brands/twitter
 #       link: https://twitter.com/TheJamesWillett
 #     - icon: fontawesome/brands/linkedin
