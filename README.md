@@ -1,5 +1,1 @@
-# mkdocs-material-youtube-tutorial
-
-Supporting code for my YouTube tutorial video:
-
-[![Image.png](https://raw.githubusercontent.com/james-willett/mkdocs-material-youtube-tutorial/main/MkDocsMaterial_GH_Thumbnail.png)](https://www.youtube.com/watch?v=Q-YA_dA8C20)
+If you find this resources to be helpful, please considering bookmarking and shopping with this [Amazon](https://amzn.to/3TLXj6j) affiliate link. It costs you nothing, and helps to support additions to this page.
