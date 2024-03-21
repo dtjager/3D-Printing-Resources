@@ -58,11 +58,11 @@
 - [RatRig V-Minon](https://docs.ratrig.com/product-details/v-minion-1-0)
 - [Prusa guides and manuals](https://help.prusa3d.com/category/assembly-manuals_272)
 
+#### Printheads
+- [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
+- [EVA](https://main.eva-3d.page/)
+
 #### Raspberry Pi
 - [Main Site](https://www.raspberrypi.com/documentation/) - documentation and configuration guies, datasheets, tutorials
 - [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
 - [Pinout Diagram](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html) - GPIO can be used with Klipper
-
-#### Toolheads
-- [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
-- [EVA](https://main.eva-3d.page/)
