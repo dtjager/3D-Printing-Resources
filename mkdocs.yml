@@ -14,11 +14,7 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: default
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: teal
-      accent: purple 
+    - scheme: slate
 
 # plugins:
 #   - social
