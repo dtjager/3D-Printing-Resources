@@ -1,4 +1,4 @@
-# References
+# Resources
 
 #### CANBUS Boards
 - [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
