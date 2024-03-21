@@ -1,12 +1,6 @@
----
-layout: page
-title: "3D Printing Resouces"
-ID: Resources
-permalink: https://dtjager.github.io/3D-Printing-References/Resources
-parent: index.md
----
+# References
 
-# CANBUS Boards
+#### CANBUS Boards
 - [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
 - [EBB 2209 CAN RP2040](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202209%20CAN%20RP2040.md)
 - [EBB 2240 2209 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202240%202209%20CAN.md)
@@ -16,7 +10,7 @@ parent: index.md
 - [Mellow Fly](https://github.com/Mellow-3D/Fly-SB2040)
 - [Mellow Fly SHT](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 
-# Displays
+#### Displays
 - [HDMI5](https://github.com/bigtreetech/docs/blob/master/docs/HDMI5.md)
 - [HDMI7 V1.0](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.0.md)
 - [HDMI7 V1.2](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.2.md)
@@ -29,16 +23,16 @@ parent: index.md
 - [TFT35](https://github.com/bigtreetech/docs/blob/master/docs/TFT35.md)
 - [TFT43-DIP](https://github.com/bigtreetech/docs/blob/master/docs/TFT43-DIP.md)
 
-# Filament
+#### Filament
 - [Bambu Lab filament guide](https://bambulab.com/en/filament-guide)
 - [Prusa filament guide](https://help.prusa3d.com/materials)
 
-# Hotends
+#### Hotends
 - [Revo Ecosystem](https://e3d-online.zendesk.com/hc/en-us/categories/6051537794333-Revo-Support) - E3D Revo Line
 - [Slice Engineering](https://support.sliceengineering.com/portal/en/kb/slice-engineering) - Mosquito Hotends
 - [Phaetus](https://github.com/Phaetus?tab=repositories) - Search for the repo of the hotend you have.
 
-# Klipper
+#### Klipper
 - [Klipper Website](https://www.klipper3d.org/)
 - [KIAUH](https://github.com/dw-0/kiauh) - Klipper installer and update utility
 - [Klipperscreen](https://klipperscreen.readthedocs.io/en/latest/) - Screen UI for Klipper-based 3d Printers
@@ -46,7 +40,7 @@ parent: index.md
 - [Fluidd UI](https://docs.fluidd.xyz/) / [FluiddPi](https://github.com/fluidd-core/FluiddPI)
 - [RatOS](https://os.ratrig.com/docs/introduction/)- Preconfigured Klipper setup for RatRig Printers (and a few others)
 
-# Mainboards
+#### Mainboards
 - [M4P](https://github.com/bigtreetech/docs/blob/master/docs/M4P.md)
 - [M5P](https://github.com/bigtreetech/docs/blob/master/docs/M5P.md)
 - [M8P](https://github.com/bigtreetech/docs/blob/master/docs/M8P.md)
@@ -56,7 +50,7 @@ parent: index.md
 - [SKR 3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%203.md)
 - [SKR Mini E3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%20MINI%20E3.md)
 
-# Printer Manuals
+#### Printer Manuals
 - [Voron0](https://github.com/VoronDesign/Voron-0/raw/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
 - [Voron 2](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf)
 - [Voron Trident](https://github.com/VoronDesign/Voron-Trident/raw/main/Manual/Frame_Upgrade_Trident.pdf)
@@ -64,11 +58,11 @@ parent: index.md
 - [RatRig V-Minon](https://docs.ratrig.com/product-details/v-minion-1-0)
 - [Prusa guides and manuals](https://help.prusa3d.com/category/assembly-manuals_272)
 
-# Raspberry Pi
+#### Raspberry Pi
 - [Main Site](https://www.raspberrypi.com/documentation/) - documentation and configuration guies, datasheets, tutorials
 - [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
 - [Pinout Diagram](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html) - GPIO can be used with Klipper
 
-# Toolheads
+#### Toolheads
 - [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 - [EVA](https://main.eva-3d.page/)
