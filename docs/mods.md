@@ -9,4 +9,6 @@
 #### CNC/Carbon Fiber
 - [Chaotic Lab Carbon Fiber Voron 2.4](https://github.com/Chaoticlab/Carbon-Fiber-Voron2.4)
 - [Chaotic Lab Voron 2.4 CNC Parts](https://github.com/Chaoticlab/Voron2.4-CNC-Parts-Kit)
-- 
+
+#### IDEX
+- [RatRig IDEX](https://lab.ratrig.com/vc31_idex/)

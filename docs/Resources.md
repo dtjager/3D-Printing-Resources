@@ -28,8 +28,10 @@
 - [Bambu Lab filament guide](https://bambulab.com/en/filament-guide)
 - [Prusa filament guide](https://help.prusa3d.com/materials)
 
-#### General
+#### General / Wiki's
+- [BTT Wiki](bttwiki.com) - website does not always work, their [docs](https://github.com/bigtreetech/docs/tree/master/docs) repo has the same contents
 - LDO [Wiki](https://docs.ldomotors.com/) - documentation for LDO kits and parts, no github links for the wiki pages
+- Voron Design [Forum](https://forum.vorondesign.com/)
 
 #### Hotends
 - [Revo Ecosystem](https://e3d-online.zendesk.com/hc/en-us/categories/6051537794333-Revo-Support) - E3D Revo Line
@@ -76,6 +78,8 @@
 #### Printheads
 - [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 - [EVA](https://main.eva-3d.page/)
+- [RatRig Toolhead](https://docs.ratrig.com/v-core-3-1/ratrig-toolhead-v1-0-upgrade)
+- Vz-Printhead - [Printed](https://github.com/VzBoT3D/Vz-Printhead-Printed)/[CNC](https://github.com/VzBoT3D/Vz-Printhead-CNC)
 
 #### Raspberry Pi
 - [Main Site](https://www.raspberrypi.com/documentation/) - documentation and configuration guies, datasheets, tutorials
