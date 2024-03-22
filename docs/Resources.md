@@ -11,6 +11,7 @@
 - [Mellow Fly SHT](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 
 #### Displays
+- [Fysetc Mini 12864](https://github.com/FYSETC/FYSETC-Mini-12864-Panel/blob/master/README.md)
 - [HDMI5](https://github.com/bigtreetech/docs/blob/master/docs/HDMI5.md)
 - [HDMI7 V1.0](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.0.md)
 - [HDMI7 V1.2](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.2.md)
@@ -27,10 +28,17 @@
 - [Bambu Lab filament guide](https://bambulab.com/en/filament-guide)
 - [Prusa filament guide](https://help.prusa3d.com/materials)
 
+#### General
+- LDO [Wiki](https://docs.ldomotors.com/) - documentation for LDO kits and parts, no github links for the wiki pages
+
 #### Hotends
 - [Revo Ecosystem](https://e3d-online.zendesk.com/hc/en-us/categories/6051537794333-Revo-Support) - E3D Revo Line
 - [Slice Engineering](https://support.sliceengineering.com/portal/en/kb/slice-engineering) - Mosquito Hotends
 - [Phaetus](https://github.com/Phaetus?tab=repositories) - Search for the repo of the hotend you have.
+
+#### Input Shaper Boards
+- [BTT USB ADLX345](https://cdn.shopify.com/s/files/1/1619/4791/files/BIGTREETECH_ADXL345_V2.0_User_Manual.pdf?v=1694085087)
+- [Fysetc Portable Input Shaper](https://github.com/FYSETC/FYSETC-PortableInputShaper/blob/main/README.md)
 
 #### Klipper
 - [Klipper Website](https://www.klipper3d.org/)
@@ -41,6 +49,9 @@
 - [RatOS](https://os.ratrig.com/docs/introduction/)- Preconfigured Klipper setup for RatRig Printers (and a few others)
 
 #### Mainboards
+- [Fysetc E4](https://github.com/FYSETC/FYSETC-E4/blob/main/README.md)
+- [Fysetc S6](https://github.com/FYSETC/FYSETC-S6/blob/main/README.md)
+- [Fysetc Spider](https://github.com/FYSETC/FYSETC-SPIDER/blob/main/README.md)
 - [M4P](https://github.com/bigtreetech/docs/blob/master/docs/M4P.md)
 - [M5P](https://github.com/bigtreetech/docs/blob/master/docs/M5P.md)
 - [M8P](https://github.com/bigtreetech/docs/blob/master/docs/M8P.md)
@@ -51,12 +62,16 @@
 - [SKR Mini E3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%20MINI%20E3.md)
 
 #### Printer Manuals
-- [Voron0](https://github.com/VoronDesign/Voron-0/raw/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
-- [Voron 2](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf)
-- [Voron Trident](https://github.com/VoronDesign/Voron-Trident/raw/main/Manual/Frame_Upgrade_Trident.pdf)
+- [Fysetc Prusa MK3 Clone](https://github.com/FYSETC/FYSETC-Prusa-MK3S-clone)
+- [Fysetc Voron 2](https://github.com/FYSETC/FYSETC-Voron-2)
+- [Fysetc Voron0](https://github.com/FYSETC/FYSETC-Voron-0.2-Pro)
+- [Fysetc Voron Trident](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/README.md)
 - [RatRig V-Core 3.1](https://docs.ratrig.com/v-core-3-1/v-core-bom)
 - [RatRig V-Minon](https://docs.ratrig.com/product-details/v-minion-1-0)
 - [Prusa guides and manuals](https://help.prusa3d.com/category/assembly-manuals_272)
+- [Voron0](https://github.com/VoronDesign/Voron-0/raw/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
+- [Voron 2](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf)
+- [Voron Trident](https://github.com/VoronDesign/Voron-Trident/raw/main/Manual/Frame_Upgrade_Trident.pdf)
 
 #### Printheads
 - [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
