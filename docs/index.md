@@ -4,4 +4,4 @@ Comment other resources that I can add in the future!
 
 I tried my best to link as many of the resources as possible directly to manufacturer websites or githubs in the hopes that they stay the most up to date. If you find an issue with something please let me know.
 
-If you have any ideas on what types of material should be linked here, please let [me know](https://github.com/dtjager/3D-Printing-Resources/discussions)!
+If you have any ideas on what types of material should be linked here, please let [me know](https://dtjager.github.io/3D-Printing-Resources/ideas/)!
