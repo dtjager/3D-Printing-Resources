@@ -7,3 +7,6 @@
 - [USB input shaper](https://www.youtube.com/watch?v=W_VHbT_tsZw&t=584s)
 - [Sensorless Homing](https://github.com/VoronDesign/Voron-Documentation/blob/main/community/howto/clee/sensorless_xy_homing.md)
 - [SSH](https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/ssh.md) - basics and setup (TIP: Use a memorable hostname when flashing SD card such as "voron", you can ssh into it then at "voron.local" without needing to know the IP adress
+- Webcam in [Fluidd](https://docs.fluidd.xyz/features/cameras) - supports most USB webcams (may require [crowsnest](https://docs.fluidd.xyz/features/cameras#crowsnest-support))
+- Webcam in [Mainsail](https://docs.mainsail.xyz/overview/settings/webcams) - supports most USB webcams (may require [crowsnest](https://crowsnest.mainsail.xyz/))
+- [Raspberry Pi Camera Module](https://www.raspberrypi.com/documentation/accessories/camera.html)

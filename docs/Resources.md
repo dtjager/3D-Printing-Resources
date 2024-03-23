@@ -1,5 +1,10 @@
 # Resources
 
+#### Camera Setup
+- In [Fluidd](https://docs.fluidd.xyz/features/cameras) - supports most USB webcams (may require [crowsnest](https://docs.fluidd.xyz/features/cameras#crowsnest-support))
+- In [Mainsail](https://docs.mainsail.xyz/overview/settings/webcams) - supports most USB webcams (may require [crowsnest](https://crowsnest.mainsail.xyz/))
+- [Raspberry Pi Camera Module](https://www.raspberrypi.com/documentation/accessories/camera.html)
+
 #### CANBUS Boards
 - [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
 - [EBB 2209 CAN RP2040](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202209%20CAN%20RP2040.md)
@@ -34,9 +39,11 @@
 - Voron Design [Forum](https://forum.vorondesign.com/)
 
 #### Hotends
+- [neXt-G-Hotend](https://github.com/Dropeffect/neXt-G-Hotend)
 - [Revo Ecosystem](https://e3d-online.zendesk.com/hc/en-us/categories/6051537794333-Revo-Support) - E3D Revo Line
 - [Slice Engineering](https://support.sliceengineering.com/portal/en/kb/slice-engineering) - Mosquito Hotends
 - [Phaetus](https://github.com/Phaetus?tab=repositories) - Search for the repo of the hotend you have.
+- [XG-Hotend](https://github.com/Dropeffect/XG-Hotend)
 
 #### Input Shaper Boards
 - [BTT USB ADLX345](https://cdn.shopify.com/s/files/1/1619/4791/files/BIGTREETECH_ADXL345_V2.0_User_Manual.pdf?v=1694085087)
@@ -62,6 +69,10 @@
 - [Octopus](https://github.com/bigtreetech/docs/blob/master/docs/Octopus.md)
 - [SKR 3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%203.md)
 - [SKR Mini E3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%20MINI%20E3.md)
+
+#### Probes
+- [Beacon](https://docs.beacon3d.com/) Probe
+- [Cartographer](https://docs.cartographer3d.com/)
 
 #### Printer Manuals
 - [Fysetc Prusa MK3 Clone](https://github.com/FYSETC/FYSETC-Prusa-MK3S-clone)
