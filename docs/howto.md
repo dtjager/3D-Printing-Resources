@@ -10,3 +10,4 @@
 - Webcam in [Fluidd](https://docs.fluidd.xyz/features/cameras) - supports most USB webcams (may require [crowsnest](https://docs.fluidd.xyz/features/cameras#crowsnest-support))
 - Webcam in [Mainsail](https://docs.mainsail.xyz/overview/settings/webcams) - supports most USB webcams (may require [crowsnest](https://crowsnest.mainsail.xyz/))
 - [Raspberry Pi Camera Module](https://www.raspberrypi.com/documentation/accessories/camera.html)
+- [Klipper-Backup](https://staubgeborener.github.io/klipper-backup/) - backup your printer config to a repo. Helpful if you need to go back to a working state.
