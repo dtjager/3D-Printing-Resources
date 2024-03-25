@@ -75,6 +75,8 @@
 - [BLTouch](https://www.antclabs.com/bltouch)
 - [Cartographer](https://docs.cartographer3d.com/)
 - [Euclid Probe](https://github.com/nionio6915/Euclid_Probe)
+- [Klicky-Probe](https://github.com/jlas1/Klicky-Probe) - dockable probe
+- ["Tap"](https://github.com/dtjager/3D-Printing-Resources/blob/main/docs/mods.md#tap) Probe Variants
 
 #### Printer Manuals
 - [Fysetc Prusa MK3 Clone](https://github.com/FYSETC/FYSETC-Prusa-MK3S-clone)
