@@ -72,7 +72,9 @@
 
 #### Probes
 - [Beacon](https://docs.beacon3d.com/) Probe
+- [BLTouch](https://www.antclabs.com/bltouch)
 - [Cartographer](https://docs.cartographer3d.com/)
+- [Euclid Probe](https://github.com/nionio6915/Euclid_Probe)
 
 #### Printer Manuals
 - [Fysetc Prusa MK3 Clone](https://github.com/FYSETC/FYSETC-Prusa-MK3S-clone)
