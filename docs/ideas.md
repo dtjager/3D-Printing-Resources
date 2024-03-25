@@ -1,3 +1,7 @@
+---
+Title: Submit Your Ideas
+---
+
 # Submit Ideas
 
 <script src="https://giscus.app/client.js"

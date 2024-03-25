@@ -1,3 +1,6 @@
+---
+Title: Printer Modifications
+---
 # Printer Modifications
 #### Voron Users Mods
 - Can be adapted to many [printers](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods#readme). All shapes and sizes of modifcations

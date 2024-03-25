@@ -1,3 +1,6 @@
+---
+Title: HowTo
+---
 # HowTo
 - [Boot raspberry pi from SSD](https://www.makeuseof.com/how-to-boot-raspberry-pi-ssd-permanent-storage/) - if you already have a setup running off of SD, you can clone the SSD from that.
 - [KlipperScreen](https://klipperscreen.github.io/KlipperScreen/Installation/) installation - installation and setup of klipperscreen, also includes directions for installing on an android phone
