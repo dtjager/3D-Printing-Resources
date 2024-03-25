@@ -1,7 +1,6 @@
 ---
 Tuning References
 ---
-#Tuning
 - [Teaching Tech Tuning guide](https://teachingtechyt.github.io/calibration.html) - PID tuning, e-steps, flow, temp, speed
 - [Ellis' Print Tuning guide](https://ellis3dp.com/Print-Tuning-Guide/) - Printer tuning, calibration, troubleshoot, macros
 - [How to ask for help](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fz8rtq0q252541.jpg) - useful for any forum/site, no one can help if you do not explain the issue

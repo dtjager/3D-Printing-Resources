@@ -1,8 +1,6 @@
 ---
 Resources
 ---
-# Resources
-
 #### Camera Setup
 - In [Fluidd](https://docs.fluidd.xyz/features/cameras) - supports most USB webcams (may require [crowsnest](https://docs.fluidd.xyz/features/cameras#crowsnest-support))
 - In [Mainsail](https://docs.mainsail.xyz/overview/settings/webcams) - supports most USB webcams (may require [crowsnest](https://crowsnest.mainsail.xyz/))
