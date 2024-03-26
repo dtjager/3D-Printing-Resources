@@ -47,8 +47,9 @@ Title: Resources
 - [XG-Hotend](https://github.com/Dropeffect/XG-Hotend)
 
 #### Input Shaper Boards
-- [BTT USB ADLX345](https://cdn.shopify.com/s/files/1/1619/4791/files/BIGTREETECH_ADXL345_V2.0_User_Manual.pdf?v=1694085087)
-- [Fysetc Portable Input Shaper](https://github.com/FYSETC/FYSETC-PortableInputShaper/blob/main/README.md)
+- [BTT USB ADLX345](https://cdn.shopify.com/s/files/1/1619/4791/files/BIGTREETECH_ADXL345_V2.0_User_Manual.pdf?v=1694085087) - [Amazon](https://amzn.to/3VBDH7c)
+- [DIY ADXL345](https://amzn.to/3TvEO5P)
+- [Fysetc Portable Input Shaper](https://github.com/FYSETC/FYSETC-PortableInputShaper/blob/main/README.md) - [Amazon](https://amzn.to/43uNPAN)
 
 #### Klipper
 - [Klipper Website](https://www.klipper3d.org/)
@@ -101,3 +102,4 @@ Title: Resources
 - [Main Site](https://www.raspberrypi.com/documentation/) - documentation and configuration guies, datasheets, tutorials
 - [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
 - [Pinout Diagram](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html) - GPIO can be used with Klipper
+- Where to buy - Stock can be hard to find, check [rpilocator](https://rpilocator.com/), [Microcenter](https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294910344+4294819333+4294818256&myStore=true), or [Amazon](https://amzn.to/4cujmH0)

@@ -3,7 +3,7 @@ Title: HowTo
 ---
 # HowTo
 - [Boot raspberry pi from SSD](https://www.makeuseof.com/how-to-boot-raspberry-pi-ssd-permanent-storage/) - if you already have a setup running off of SD, you can clone the SSD from that.
-- [KlipperScreen](https://klipperscreen.github.io/KlipperScreen/Installation/) installation - installation and setup of klipperscreen, also includes directions for installing on an android phone
+- [KlipperScreen](https://klipperscreen.github.io/KlipperScreen/Installation/) installation (can be done via Kiauh) - installation and setup of klipperscreen, also includes directions for installing on an android phone
 - [Kiauh](https://github.com/dw-0/kiauh) - simplified install of multiple servies
 - [Made with Layers](https://www.youtube.com/watch?v=EYEi2vTkzhw&list=PLDJMid0lOOYnIDwhpx7VdRdkhYRRoJeht) - Voron 2.4 live build stream
 - [Nero3D](https://www.youtube.com/playlist?list=PL7zrGeKp_8CQr1kje-J2xX_pxr_M92t01) - Voron 2.4 live build stream

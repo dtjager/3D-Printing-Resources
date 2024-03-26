@@ -1,7 +1,10 @@
 ---
 Title: Printer Modifications
 ---
-# Printer Modifications
+#### Chamber Filters
+- [BentoBox](https://www.printables.com/model/272525-bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclo)
+- [Nevermore](https://github.com/nevermore3d)
+
 #### Voron Users Mods
 - Can be adapted to many [printers](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods#readme). All shapes and sizes of modifcations
 
@@ -15,3 +18,6 @@ Title: Printer Modifications
 
 #### IDEX
 - [RatRig IDEX](https://lab.ratrig.com/vc31_idex/)
+
+#### LED's
+- Configure with [Klipper](https://www.klipper3d.org/Config_Reference.html#leds) - [LED Effect](https://github.com/julianschill/klipper-led_effect/tree/master)
