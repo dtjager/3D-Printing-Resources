@@ -93,6 +93,7 @@ Title: Resources
 - [Voron Trident](https://github.com/VoronDesign/Voron-Trident/raw/main/Manual/Frame_Upgrade_Trident.pdf)
 
 #### Printheads
+- [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) - multiple printers, hotends, extruders supported.
 - [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 - [EVA](https://main.eva-3d.page/)
 - [RatRig Toolhead](https://docs.ratrig.com/v-core-3-1/ratrig-toolhead-v1-0-upgrade)
