@@ -6,16 +6,6 @@ Title: Manuals, Guides and Where to Buy
 - In [Mainsail](https://docs.mainsail.xyz/overview/settings/webcams) - supports most USB webcams (may require [crowsnest](https://crowsnest.mainsail.xyz/))
 - [Raspberry Pi Camera Module](https://www.raspberrypi.com/documentation/accessories/camera.html)
 
-#### CANBUS Boards
-- [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
-- [EBB 2209 CAN RP2040](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202209%20CAN%20RP2040.md) - [Amazon](https://amzn.to/3Q1HCa3)
-- [EBB 2240 2209 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202240%202209%20CAN.md) - [Amazon](https://amzn.to/3vB6BJZ)
-- [EBB 36 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%2036%20CAN.md) - [Amazon](https://amzn.to/3TCk8Ji)
-- [EBB 42 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%2042%20CAN.md) - [Amazon](https://amzn.to/3PFFAvY)
-- [EBB U2C](https://github.com/bigtreetech/docs/blob/master/docs/U2C.md) - [Amazon](9https://amzn.to/3TxWRbr)
-- [Mellow Fly](https://github.com/Mellow-3D/Fly-SB2040)
-- [Mellow Fly SHT](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
-
 #### Displays
 - [Fysetc Mini 12864](https://github.com/FYSETC/FYSETC-Mini-12864-Panel/blob/master/README.md)
 - [HDMI5](https://github.com/bigtreetech/docs/blob/master/docs/HDMI5.md) - [Amazon](https://amzn.to/4cA6saE)
@@ -106,3 +96,13 @@ Title: Manuals, Guides and Where to Buy
 - [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
 - [Pinout Diagram](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html) - GPIO can be used with Klipper
 - Where to buy - Stock can be hard to find, check [rpilocator](https://rpilocator.com/), [Microcenter](https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294910344+4294819333+4294818256&myStore=true), or [Amazon](https://amzn.to/4cujmH0)
+
+#### Toolhead Boards
+- [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
+- [EBB 2209 CAN RP2040](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202209%20CAN%20RP2040.md) - [Amazon](https://amzn.to/3Q1HCa3)
+- [EBB 2240 2209 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202240%202209%20CAN.md) - [Amazon](https://amzn.to/3vB6BJZ)
+- [EBB 36 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%2036%20CAN.md) - [Amazon](https://amzn.to/3TCk8Ji)
+- [EBB 42 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%2042%20CAN.md) - [Amazon](https://amzn.to/3PFFAvY)
+- [EBB U2C](https://github.com/bigtreetech/docs/blob/master/docs/U2C.md) - [Amazon](9https://amzn.to/3TxWRbr)
+- [Mellow Fly](https://github.com/Mellow-3D/Fly-SB2040)
+- [Mellow Fly SHT](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
