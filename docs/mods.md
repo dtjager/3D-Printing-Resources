@@ -16,8 +16,9 @@ Title: Printer Modifications
 - [Chaotic Lab Carbon Fiber Voron 2.4](https://github.com/Chaoticlab/Carbon-Fiber-Voron2.4)
 - [Chaotic Lab Voron 2.4 CNC Parts](https://github.com/Chaoticlab/Voron2.4-CNC-Parts-Kit)
 
-#### IDEX
-- [RatRig IDEX](https://lab.ratrig.com/vc31_idex/)
+#### IDEX / Multimaterial
+- [RatRig IDEX](https://lab.ratrig.com/vc31_idex/) - multiple toolheads for multiple materials
+- [Enraged Rabbit Carrot Feeder](https://github.com/EtteGit/EnragedRabbitProject) - multimaterial, single toolhead
 
 #### LED's
 - Configure with [Klipper](https://www.klipper3d.org/Config_Reference.html#leds) - [LED Effect](https://github.com/julianschill/klipper-led_effect/tree/master)

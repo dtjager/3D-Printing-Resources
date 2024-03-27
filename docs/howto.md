@@ -1,7 +1,6 @@
 ---
 Title: HowTo
 ---
-# HowTo
 - [Boot raspberry pi from SSD](https://www.makeuseof.com/how-to-boot-raspberry-pi-ssd-permanent-storage/) - if you already have a setup running off of SD, you can clone the SSD from that.
 - [KlipperScreen](https://klipperscreen.github.io/KlipperScreen/Installation/) installation (can be done via Kiauh) - installation and setup of klipperscreen, also includes directions for installing on an android phone
 - [Kiauh](https://github.com/dw-0/kiauh) - simplified install of multiple servies
@@ -15,3 +14,5 @@ Title: HowTo
 - [Raspberry Pi Camera Module](https://www.raspberrypi.com/documentation/accessories/camera.html)
 - [Klipper-Backup](https://staubgeborener.github.io/klipper-backup/) - backup your printer config to a repo. Helpful if you need to go back to a working state.
 - Klipper [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - Klipper Adaptive Meshing Purging, bed mesh of only where printed parts will be.
+- Install [Klipper](https://www.obico.io/blog/install-klipper-ender-3/) on a non-klipper printer - Ender 3 in this guide, basics will be the same
+- Teaching Tech - [Rat Rig V-Core 3 Build](https://www.obico.io/blog/install-klipper-ender-3/)

@@ -10,3 +10,4 @@ Title: Tuning References
 - [Resonance Compensation](https://www.klipper3d.org/Resonance_Compensation.html) - frequently called "Ringing"
 - [Vocabulary and Descriptive terms](https://all3dp.com/2/3d-printing-terminology-3d-printing-terms/) - common terminology, useful if you need to ask for help for a specific issue
 - [Voron](https://docs.vorondesign.com/build/startup/#initial-startup-checks) initial startup checks and configuration guide
+- [Print Quality Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/) - A good resource for improving print quality, includes pictures for easy diagnosis/fixes

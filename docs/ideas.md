@@ -1,9 +1,6 @@
 ---
 Title: Submit Your Ideas
 ---
-
-# Submit Ideas
-
 <script src="https://giscus.app/client.js"
         data-repo="dtjager/3D-Printing-Resources"
         data-repo-id="R_kgDOLjmQGw"

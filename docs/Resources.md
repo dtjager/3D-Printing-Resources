@@ -8,31 +8,32 @@ Title: Resources
 
 #### CANBUS Boards
 - [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
-- [EBB 2209 CAN RP2040](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202209%20CAN%20RP2040.md)
-- [EBB 2240 2209 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202240%202209%20CAN.md)
-- [EBB 36 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%2036%20CAN.md)
-- [EBB 42 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%2042%20CAN.md)
-- [EBB U2C](https://github.com/bigtreetech/docs/blob/master/docs/U2C.md)
+- [EBB 2209 CAN RP2040](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202209%20CAN%20RP2040.md) - [Amazon](https://amzn.to/3Q1HCa3)
+- [EBB 2240 2209 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%202240%202209%20CAN.md) - [Amazon](https://amzn.to/3vB6BJZ)
+- [EBB 36 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%2036%20CAN.md) - [Amazon](https://amzn.to/3TCk8Ji)
+- [EBB 42 CAN](https://github.com/bigtreetech/docs/blob/master/docs/EBB%2042%20CAN.md) - [Amazon](https://amzn.to/3PFFAvY)
+- [EBB U2C](https://github.com/bigtreetech/docs/blob/master/docs/U2C.md) - [Amazon](9https://amzn.to/3TxWRbr)
 - [Mellow Fly](https://github.com/Mellow-3D/Fly-SB2040)
 - [Mellow Fly SHT](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 
 #### Displays
 - [Fysetc Mini 12864](https://github.com/FYSETC/FYSETC-Mini-12864-Panel/blob/master/README.md)
-- [HDMI5](https://github.com/bigtreetech/docs/blob/master/docs/HDMI5.md)
+- [HDMI5](https://github.com/bigtreetech/docs/blob/master/docs/HDMI5.md) - [Amazon](https://amzn.to/4cA6saE)
 - [HDMI7 V1.0](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.0.md)
 - [HDMI7 V1.2](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.2.md)
 - [KNOMI](https://github.com/bigtreetech/docs/blob/master/docs/KNOMI.md)
-- [KNOMI2](https://github.com/bigtreetech/docs/blob/master/docs/KNOMI2.md)
+- [KNOMI2](https://github.com/bigtreetech/docs/blob/master/docs/KNOMI2.md) - [Amazon](https://amzn.to/3TTg0pP)
 - [Raspberry Pi Official 7" Display](https://www.raspberrypi.com/documentation/accessories/display.html)
 - [TFT24](https://github.com/bigtreetech/docs/blob/master/docs/TFT24.md)
 - [TFT35 E3](https://github.com/bigtreetech/docs/blob/master/docs/TFT35%20E3.md)
-- [TFT35 SPI](https://github.com/bigtreetech/docs/blob/master/docs/TFT35%20SPI.md)
+- [TFT35 SPI](https://github.com/bigtreetech/docs/blob/master/docs/TFT35%20SPI.md) - [Amazon](https://amzn.to/49d7yG4)
 - [TFT35](https://github.com/bigtreetech/docs/blob/master/docs/TFT35.md)
 - [TFT43-DIP](https://github.com/bigtreetech/docs/blob/master/docs/TFT43-DIP.md)
 
 #### Filament
 - [Bambu Lab filament guide](https://bambulab.com/en/filament-guide)
 - [Prusa filament guide](https://help.prusa3d.com/materials)
+- [Ultimate 3D](https://www.simplify3d.com/resources/materials-guide/) Materials Guide - Printable materials, uses, pros/cons
 
 #### General / Wiki's
 - [BTT Wiki](bttwiki.com) - website does not always work, their [docs](https://github.com/bigtreetech/docs/tree/master/docs) repo has the same contents
@@ -50,6 +51,7 @@ Title: Resources
 - [BTT USB ADLX345](https://cdn.shopify.com/s/files/1/1619/4791/files/BIGTREETECH_ADXL345_V2.0_User_Manual.pdf?v=1694085087) - [Amazon](https://amzn.to/3VBDH7c)
 - [DIY ADXL345](https://amzn.to/3TvEO5P)
 - [Fysetc Portable Input Shaper](https://github.com/FYSETC/FYSETC-PortableInputShaper/blob/main/README.md) - [Amazon](https://amzn.to/43uNPAN)
+- Note: it is not uncommon for toolhead boards to have input shaping built-in, check that out if you are buying one, you may not need another board.
 
 #### Klipper
 - [Klipper Website](https://www.klipper3d.org/)
@@ -73,7 +75,7 @@ Title: Resources
 - [SKR Mini E3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%20MINI%20E3.md)
 
 #### Probes
-- [Beacon](https://docs.beacon3d.com/) Probe
+- [Beacon](https://docs.beacon3d.com/) Probe - [Beacon Store](https://beacon3d.com/store/)
 - [BLTouch](https://www.antclabs.com/bltouch)
 - [Cartographer](https://docs.cartographer3d.com/)
 - [Euclid Probe](https://github.com/nionio6915/Euclid_Probe)
