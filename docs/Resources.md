@@ -79,6 +79,7 @@ Title: Manuals, Guides and Where to Buy
 - [Fysetc Voron Trident](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/README.md)
 - [RatRig V-Core 3.1](https://docs.ratrig.com/v-core-3-1/v-core-bom)
 - [RatRig V-Minon](https://docs.ratrig.com/product-details/v-minion-1-0)
+- [Rolohaun 3D](https://www.rolohaun3d.ca/3d-printers) - manuals for Rolohaun printers, rotation distance calculator (e-steps), and klipper tips
 - [Prusa guides and manuals](https://help.prusa3d.com/category/assembly-manuals_272)
 - [Voron0](https://github.com/VoronDesign/Voron-0/raw/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
 - [Voron 2](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf)
