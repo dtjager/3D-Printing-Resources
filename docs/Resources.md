@@ -7,12 +7,12 @@ Title: Manuals, Guides and Where to Buy
 - [Raspberry Pi Camera Module](https://www.raspberrypi.com/documentation/accessories/camera.html)
 
 #### Displays
-- [Fysetc Mini 12864](https://github.com/FYSETC/FYSETC-Mini-12864-Panel/blob/master/README.md)
+- [Fysetc Mini 12864](https://github.com/FYSETC/FYSETC-Mini-12864-Panel/blob/master/README.md) -[Amazon](https://amzn.to/4awzZQt)
 - [HDMI5](https://github.com/bigtreetech/docs/blob/master/docs/HDMI5.md) - [Amazon](https://amzn.to/4cA6saE)
-- [HDMI7 V1.0](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.0.md)
+- [HDMI7 V1.0](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.0.md) - [Amazon](https://amzn.to/3Tz8wqz)
 - [HDMI7 V1.2](https://github.com/bigtreetech/docs/blob/master/docs/HDMI7%20V1.2.md)
-- [KNOMI](https://github.com/bigtreetech/docs/blob/master/docs/KNOMI.md)
-- [KNOMI2](https://github.com/bigtreetech/docs/blob/master/docs/KNOMI2.md) - [Amazon](https://amzn.to/3TTg0pP)
+- [KNOMI](https://github.com/bigtreetech/docs/blob/master/docs/KNOMI.md) - [Amazon](https://amzn.to/4a9yrfH)
+- [KNOMI2](https://github.com/bigtreetech/docs/blob/master/docs/KNOMI2.md) - [Amazon](https://amzn.to/49in3g2)
 - [Raspberry Pi Official 7" Display](https://www.raspberrypi.com/documentation/accessories/display.html)
 - [TFT24](https://github.com/bigtreetech/docs/blob/master/docs/TFT24.md)
 - [TFT35 E3](https://github.com/bigtreetech/docs/blob/master/docs/TFT35%20E3.md)
