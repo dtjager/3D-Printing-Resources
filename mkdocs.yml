@@ -58,17 +58,10 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - Welcome:
-    - index.md
-  - Resources:
-    - Resources.md
-  - Tuning:
-    - Tuning.md 
-  - Howto:
-    - howto.md
-  - Mods:
-    - mods.md
-  - Socials:
-    - socials.md
-  - Ideas:
-    - ideas.md
+  - index.md
+  - Resources.md
+  - Tuning.md 
+  - howto.md
+   - mods.md
+   - socials.md
+   - ideas.md

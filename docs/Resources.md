@@ -1,5 +1,5 @@
 ---
-Title: Resources
+Title: Manuals, Guides and Where to Buy
 ---
 #### Camera Setup
 - In [Fluidd](https://docs.fluidd.xyz/features/cameras) - supports most USB webcams (may require [crowsnest](https://docs.fluidd.xyz/features/cameras#crowsnest-support))
