@@ -58,12 +58,11 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - Home:
-    - index.md
-  - Resources:
+  - index.md
+  - Information:
     - Resources.md
     - Tuning.md 
-    - howto.md
+    - How To.md
     - mods.md
   - Where to Buy:
     - Where to Buy.md
