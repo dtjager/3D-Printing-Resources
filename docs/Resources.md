@@ -39,7 +39,7 @@ Title: Manuals, Guides and Where to Buy
 
 #### Input Shaper Boards
 - [BTT USB ADLX345](https://cdn.shopify.com/s/files/1/1619/4791/files/BIGTREETECH_ADXL345_V2.0_User_Manual.pdf?v=1694085087) - [Amazon](https://amzn.to/3VBDH7c)
-- [DIY ADXL345](https://amzn.to/3TvEO5P)
+- [DIY ADXL345](https://amzn.to/3TvEO5P) - not terrible difficult to setup, mainboard manuals sometimes have the wiring diagram
 - [Fysetc Portable Input Shaper](https://github.com/FYSETC/FYSETC-PortableInputShaper/blob/main/README.md) - [Amazon](https://amzn.to/43uNPAN)
 - Note: it is not uncommon for toolhead boards to have input shaping built-in, check that out if you are buying one, you may not need another board.
 
@@ -66,24 +66,19 @@ Title: Manuals, Guides and Where to Buy
 
 #### Probes
 - [Beacon](https://docs.beacon3d.com/) Probe - [Beacon Store](https://beacon3d.com/store/)
-- [BLTouch](https://www.antclabs.com/bltouch)
+- [BLTouch](https://www.antclabs.com/bltouch) - they sell officially on [Amazon](https://amzn.to/3vC5ZDW) and Ebay
 - [Cartographer](https://docs.cartographer3d.com/)
 - [Euclid Probe](https://github.com/nionio6915/Euclid_Probe)
 - [Klicky-Probe](https://github.com/jlas1/Klicky-Probe) - dockable probe
 - ["Tap"](https://github.com/dtjager/3D-Printing-Resources/blob/main/docs/mods.md#tap) Probe Variants
 
 #### Printer Manuals
-- [Fysetc Prusa MK3 Clone](https://github.com/FYSETC/FYSETC-Prusa-MK3S-clone)
-- [Fysetc Voron 2](https://github.com/FYSETC/FYSETC-Voron-2)
-- [Fysetc Voron0](https://github.com/FYSETC/FYSETC-Voron-0.2-Pro)
-- [Fysetc Voron Trident](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/README.md)
-- [RatRig V-Core 3.1](https://docs.ratrig.com/v-core-3-1/v-core-bom)
-- [RatRig V-Minon](https://docs.ratrig.com/product-details/v-minion-1-0)
+- Fysetc Manuals - [Fysetc Prusa MK3 Clone](https://github.com/FYSETC/FYSETC-Prusa-MK3S-clone), [Fysetc Voron 2](https://github.com/FYSETC/FYSETC-Voron-2), [Fysetc Voron0](https://github.com/FYSETC/FYSETC-Voron-0.2-Pro), [Fysetc Voron Trident](https://github.com/FYSETC/FYSETC-Voron-Trident/blob/main/README.md)
+- LDO Motors Kits - [Vorons](https://docs.ldomotors.com/), [Milo](https://docs.ldomotors.com/en/milo/milov15)
+- RatRig Manuals - [RatRig V-Core 3.1](https://docs.ratrig.com/v-core-3-1/v-core-bom),[RatRig V-Minon](https://docs.ratrig.com/product-details/v-minion-1-0)
 - [Rolohaun 3D](https://www.rolohaun3d.ca/3d-printers) - manuals for Rolohaun printers, rotation distance calculator (e-steps), and klipper tips
 - [Prusa guides and manuals](https://help.prusa3d.com/category/assembly-manuals_272)
-- [Voron0](https://github.com/VoronDesign/Voron-0/raw/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf)
-- [Voron 2](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf)
-- [Voron Trident](https://github.com/VoronDesign/Voron-Trident/raw/main/Manual/Frame_Upgrade_Trident.pdf)
+- Voron Design Manuals - [Voron0](https://github.com/VoronDesign/Voron-0/raw/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf), [Voron 2](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf), [Voron Trident](https://github.com/VoronDesign/Voron-Trident/raw/main/Manual/Frame_Upgrade_Trident.pdf)
 
 #### Printheads
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) - multiple printers, hotends, extruders supported.
