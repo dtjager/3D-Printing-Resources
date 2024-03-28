@@ -7,9 +7,7 @@
 
   gtag('config', 'G-VWF4MQCNTG');
 </script>
----
-Title: Where to Buy
----
+
 - [AliExpress](https://s.click.aliexpress.com/e/_mOmCec2) - kits, anything and everything. Helpful for the misc parts or things you are ok waiting for.
 - [Amazon](https://amzn.to/43zbVKG) - filament, bolts, insterts, motors, electronics
 - [Bolt Depot](https://boltdepot.com/) - any bolts or nuts that you may need

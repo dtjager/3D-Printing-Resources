@@ -7,9 +7,7 @@
 
   gtag('config', 'G-VWF4MQCNTG');
 </script>
----
-Title: Submit Your Ideas
----
+
 <script src="https://giscus.app/client.js"
         data-repo="dtjager/3D-Printing-Resources"
         data-repo-id="R_kgDOLjmQGw"
