@@ -66,3 +66,8 @@ nav:
   - wheretobuy.md
   - socials.md
   - ideas.md
+
+  extra:
+  analytics:
+    provider: google
+    property: G-VWF4MQCNTG

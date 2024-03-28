@@ -81,6 +81,7 @@ Title: Manuals, Guides and Where to Buy
 - Voron Design Manuals - [Voron0](https://github.com/VoronDesign/Voron-0/raw/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf), [Voron 2](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf), [Voron Trident](https://github.com/VoronDesign/Voron-Trident/raw/main/Manual/Frame_Upgrade_Trident.pdf)
 
 #### Printheads
+- [Afterburner](https://github.com/VoronDesign/Voron-Afterburner/tree/afterburner) - [manual](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/Manual/Afterburner.pdf)
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) - multiple printers, hotends, extruders supported.
 - [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 - [EVA](https://main.eva-3d.page/)
