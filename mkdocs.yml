@@ -37,6 +37,9 @@ plugins:
   - social
   
 extra:
+  analytics:
+    provider: google
+    property: G-VWF4MQCNTG
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/dtjager
@@ -72,8 +75,3 @@ nav:
   - Help us and get Help:
     - socials.md
     - ideas.md
-  
-extra:
-  analytics:
-    provider: google
-    property: G-VWF4MQCNTG
