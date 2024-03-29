@@ -32,6 +32,8 @@ theme:
 
 plugins:
   - social
+
+plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       
