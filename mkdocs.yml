@@ -1,6 +1,8 @@
 site_name: 3D Printing Resources
 site_url: https://dtjager.github.io/3D-Printing-Resources/
 repo_url: https://dtjager.github.io/3D-Printing-Resources/
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   features:
@@ -33,6 +35,8 @@ theme:
 
 plugins:
   - social
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 extra:
   social:
