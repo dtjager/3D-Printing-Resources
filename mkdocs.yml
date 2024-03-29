@@ -34,9 +34,6 @@ theme:
         name: Switch to light mode
 
 plugins:
-  - search # necessary for search to work
-  - git-revision-date-localized:
-      type: date
   - social
   
 extra:
