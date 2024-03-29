@@ -1,5 +1,6 @@
 site_name: 3D Printing Resources
 site_url: https://dtjager.github.io/3D-Printing-Resources/
+repo_url: https://dtjager.github.io/3D-Printing-Resources/
 theme:
   name: material
   features:
