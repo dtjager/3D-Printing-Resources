@@ -35,8 +35,6 @@ theme:
 
 plugins:
   - social
-  - search
-  - git-revision-date-localized
 
 extra:
   social:
