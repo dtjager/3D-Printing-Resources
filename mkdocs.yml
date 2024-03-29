@@ -35,8 +35,7 @@ theme:
 
 plugins:
   - social
-  - git-revision-date-localized
-
+  
 extra:
   social:
     - icon: fontawesome/brands/github-alt
