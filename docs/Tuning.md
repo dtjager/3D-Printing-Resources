@@ -1,16 +1,6 @@
 ---
 Title: Tuning Your Printer
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VWF4MQCNTG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VWF4MQCNTG');
-</script>
-
 - [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration) - how to use calibration prints to tune your printer/filament
 - [Teaching Tech Tuning guide](https://teachingtechyt.github.io/calibration.html) - PID tuning, e-steps, flow, temp, speed
 - [Ellis' Print Tuning guide](https://ellis3dp.com/Print-Tuning-Guide/) - Printer tuning, calibration, troubleshoot, macros

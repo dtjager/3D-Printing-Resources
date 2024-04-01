@@ -1,16 +1,6 @@
 ---
 Title: Home
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VWF4MQCNTG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VWF4MQCNTG');
-</script>
-
 # Welcome
 If you find this resource to be helpful, please considering bookmarking and shopping with this [Amazon](https://amzn.to/3TLXj6j) affiliate link. It costs you nothing, and helps to support additions to this page.
 

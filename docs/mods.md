@@ -1,16 +1,5 @@
 ---
 Title: Some Printer Mod's
----
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VWF4MQCNTG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VWF4MQCNTG');
-</script>
-
 #### Chamber Filters
 - [BentoBox](https://www.printables.com/model/272525-bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclo)
 - [Nevermore](https://github.com/nevermore3d)

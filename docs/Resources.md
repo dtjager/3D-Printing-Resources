@@ -1,16 +1,6 @@
 ---
 Title: Manuals, Guides, and where to Buy
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VWF4MQCNTG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VWF4MQCNTG');
-</script>
-
 #### Camera Setup
 - In [Fluidd](https://docs.fluidd.xyz/features/cameras) - supports most USB webcams (may require [crowsnest](https://docs.fluidd.xyz/features/cameras#crowsnest-support))
 - In [Mainsail](https://docs.mainsail.xyz/overview/settings/webcams) - supports most USB webcams (may require [crowsnest](https://crowsnest.mainsail.xyz/))
@@ -38,6 +28,7 @@ Title: Manuals, Guides, and where to Buy
 #### General / Wiki's
 - [BTT Wiki](bttwiki.com) - website does not always work, their [docs](https://github.com/bigtreetech/docs/tree/master/docs) repo has the same contents
 - LDO [Wiki](https://docs.ldomotors.com/) - documentation for LDO kits and parts, no github links for the wiki pages
+- Ratos [Config](https://github.com/Rat-OS/RatOS-configuration) examples
 - Voron Design [Forum](https://forum.vorondesign.com/)
 
 #### Hotends
@@ -65,10 +56,11 @@ Title: Manuals, Guides, and where to Buy
 - [Fysetc E4](https://github.com/FYSETC/FYSETC-E4/blob/main/README.md)
 - [Fysetc S6](https://github.com/FYSETC/FYSETC-S6/blob/main/README.md)
 - [Fysetc Spider](https://github.com/FYSETC/FYSETC-SPIDER/blob/main/README.md)
+- [Kraken](https://github.com/bigtreetech/BIGTREETECH-Kraken)
 - [M4P](https://github.com/bigtreetech/docs/blob/master/docs/M4P.md)
 - [M5P](https://github.com/bigtreetech/docs/blob/master/docs/M5P.md)
 - [M8P](https://github.com/bigtreetech/docs/blob/master/docs/M8P.md)
-- [Octopus Pro](https://github.com/bigtreetech/docs/blob/master/docs/Octopus%20Pro.md)
+- [Octopus Pro](https://github.com/bigtreetech/docs/blob/master/docs/Octopus%20Pro.md) - Check board version V1.0, V1.0.1, V1.1
 - [Octopus MAZX EZ](https://github.com/bigtreetech/docs/blob/master/docs/Octopus%20MAX%20EZ.md)
 - [Octopus](https://github.com/bigtreetech/docs/blob/master/docs/Octopus.md)
 - [SKR 3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%203.md)

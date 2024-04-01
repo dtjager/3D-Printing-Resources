@@ -1,16 +1,6 @@
 ---
 Title: Helping Us!
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VWF4MQCNTG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VWF4MQCNTG');
-</script>
-
 <script src="https://giscus.app/client.js"
         data-repo="dtjager/3D-Printing-Resources"
         data-repo-id="R_kgDOLjmQGw"
