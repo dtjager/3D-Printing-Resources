@@ -10,7 +10,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.footer
-    - toc.integrate
+    - toc.follow
     - navigation.top
     - search.suggest
     - search.highlight
