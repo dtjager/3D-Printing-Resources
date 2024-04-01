@@ -2,8 +2,8 @@
 Title: Home
 ---
 # Welcome
-If you find this resource to be helpful, please considering bookmarking and shopping with this [Amazon](https://amzn.to/3TLXj6j) affiliate link. It costs you nothing, and helps to support additions to this page.
+This is a page I setup for myself when I was working on building my printer. I needed a way to organize the possible variations and configurations that I was considering. I wanted to post it for everyone to be able to use, and add to it to include as many variations as possible. I tried my best to link as many of the resources as possible directly to manufacturer websites or githubs in the hopes that they stay the most up to date. If you find an issue with something please let me know so I can address it as soon as possible. 
 
-I tried my best to link as many of the resources as possible directly to manufacturer websites or githubs in the hopes that they stay the most up to date. If you find an issue with something please let me know.
+If you find this resource to be helpful, please considering bookmarking and shopping with this [Amazon](https://amzn.to/3TLXj6j) affiliate link. It costs you nothing, and helps to support additions to this page. I do this on my own time, to help others where I was once.
 
 If you have any ideas on what types of material should be linked here, please let [me know](https://dtjager.github.io/3D-Printing-Resources/ideas/)!
