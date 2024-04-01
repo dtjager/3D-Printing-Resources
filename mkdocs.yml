@@ -36,7 +36,6 @@ theme:
 plugins:
   - social
   - search
-  - edited_date_plugin:
   
 extra:
   analytics:
