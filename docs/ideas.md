@@ -1,6 +1,8 @@
 ---
 Title: Helping Us!
 ---
+Help us improve this page by submitting your suggestions below!
+
 <script src="https://giscus.app/client.js"
         data-repo="dtjager/3D-Printing-Resources"
         data-repo-id="R_kgDOLjmQGw"
