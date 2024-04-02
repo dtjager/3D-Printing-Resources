@@ -8,4 +8,4 @@ If you find this resource to be helpful, please considering bookmarking and shop
 
 If you have any ideas on what types of material should be linked here, please let [me know](https://dtjager.github.io/3D-Printing-Resources/ideas/)!
 
-<iframe src="https://github.com/sponsors/dtjager/card" title="Sponsor dtjager" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/dtjager/button" title="Sponsor dtjager" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
