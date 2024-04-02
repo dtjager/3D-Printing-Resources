@@ -6,6 +6,9 @@ repo_url: https://github.com/dtjager/3D-Printing-Resources
 
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github-alt
+
   features:
     - navigation.tabs
     - navigation.sections
@@ -37,6 +40,8 @@ theme:
 plugins:
   - social
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
   
 extra:
   analytics:
