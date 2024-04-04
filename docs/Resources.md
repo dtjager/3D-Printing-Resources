@@ -20,6 +20,10 @@ Title: Manuals, Guides, and where to Buy
 - [TFT35](https://github.com/bigtreetech/docs/blob/master/docs/TFT35.md)
 - [TFT43-DIP](https://github.com/bigtreetech/docs/blob/master/docs/TFT43-DIP.md)
 
+#### Extruders
+- Annex-Engineering - Sherpa [Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)/[Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder
+- [Bondtech Extruders](https://www.bondtech.se/product-category/extruders/)
+
 #### Filament
 - [Bambu Lab filament guide](https://bambulab.com/en/filament-guide)
 - [Prusa filament guide](https://help.prusa3d.com/materials)
@@ -112,6 +116,9 @@ Title: Manuals, Guides, and where to Buy
 - [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
 - [Pinout Diagram](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html) - GPIO can be used with Klipper
 - Where to buy - Stock can be hard to find, check [rpilocator](https://rpilocator.com/), [Microcenter](https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294910344+4294819333+4294818256&myStore=true), or [Amazon](https://amzn.to/4cujmH0)
+- Alternatives
+  - [BTT-Pi](https://github.com/bigtreetech/BTT-Pi)
+  - [Orange Pi](https://amzn.to/3TK4X0S) - many variants to choose from
 
 #### Toolhead Boards
 - [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
