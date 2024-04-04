@@ -21,7 +21,7 @@ Title: Manuals, Guides, and where to Buy
 - [TFT43-DIP](https://github.com/bigtreetech/docs/blob/master/docs/TFT43-DIP.md)
 
 #### Extruders
-- Annex-Engineering - Sherpa [Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)/[Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder
+- Annex-Engineering - Sherpa [Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)/[Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder)
 - [Bondtech Extruders](https://www.bondtech.se/product-category/extruders/)
 
 #### Filament
