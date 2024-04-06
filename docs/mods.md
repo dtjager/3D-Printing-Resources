@@ -22,6 +22,7 @@ Title: Some Printer Mod's
 
 #### LED's
 - Configure with [Klipper](https://www.klipper3d.org/Config_Reference.html#leds) - [LED Effect](https://github.com/julianschill/klipper-led_effect/tree/master)
+  - Alternative [WLED](https://kno.wled.ge/) with [moonraker](https://moonraker.readthedocs.io/en/latest/configuration/#wled)
 
 #### Alternative Displays
 - [CYD Klipper](https://github.com/suchmememanyskill/CYD-Klipper) - esp32 based display option for klipper using moonraker
