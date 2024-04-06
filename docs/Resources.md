@@ -53,6 +53,7 @@ Title: Manuals, Guides, and where to Buy
 - [KIAUH](https://github.com/dw-0/kiauh) - Klipper installer and update utility
 - [Klipperscreen](https://klipperscreen.readthedocs.io/en/latest/) - Screen UI for Klipper-based 3d Printers
 - [Mainsail OS](https://docs-os.mainsail.xyz/)
+- Moonraker [Docs](https://moonraker.readthedocs.io/en/latest/) - includes integrations for WLED, MQTT, Buttons, etc.
 - [Fluidd UI](https://docs.fluidd.xyz/) / [FluiddPi](https://github.com/fluidd-core/FluiddPI)
 - [RatOS](https://os.ratrig.com/docs/introduction/)- Preconfigured Klipper setup for RatRig Printers (and a few others)
 
