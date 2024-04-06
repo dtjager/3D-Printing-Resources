@@ -16,3 +16,5 @@ Title: How To's
 - Klipper [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - Klipper Adaptive Meshing Purging, bed mesh of only where printed parts will be.
 - Install [Klipper](https://www.obico.io/blog/install-klipper-ender-3/) on a non-klipper printer - Ender 3 in this guide, basics will be the same
 - Teaching Tech - [Rat Rig V-Core 3 Build](https://www.obico.io/blog/install-klipper-ender-3/)
+- Integrate other servies with [Moonraker](https://moonraker.readthedocs.io/en/latest/configuration/)
+- Use [WLED](https://kno.wled.ge/) within Klipper - [Tutorial](https://github.com/Gliptopolis/WLED_Klipper)
