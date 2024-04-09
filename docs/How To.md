@@ -18,3 +18,4 @@ Title: How To's
 - Teaching Tech - [Rat Rig V-Core 3 Build](https://www.obico.io/blog/install-klipper-ender-3/)
 - Integrate other servies with [Moonraker](https://moonraker.readthedocs.io/en/latest/configuration/)
 - Use [WLED](https://kno.wled.ge/) within Klipper - [Tutorial](https://github.com/Gliptopolis/WLED_Klipper)
+- Use [Moonraker Timelapse](https://github.com/mainsail-crew/moonraker-timelapse) to get timelapse footage of prints using a camera connected to your printer

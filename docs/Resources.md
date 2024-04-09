@@ -23,6 +23,8 @@ Title: Manuals, Guides, and where to Buy
 #### Extruders
 - Annex-Engineering - Sherpa [Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)/[Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder)
 - [Bondtech Extruders](https://www.bondtech.se/product-category/extruders/)
+- Orbiter Extruder - LDO extruder, available at multiple suppliers; the LDO webpage for it however, is down.
+- [Vz-HextrudORT](https://github.com/VzBoT3D/Vz-HextrudORT)
 
 #### Filament
 - [Bambu Lab filament guide](https://bambulab.com/en/filament-guide)
@@ -32,6 +34,7 @@ Title: Manuals, Guides, and where to Buy
 #### General / Wiki's
 - [BTT Wiki](bttwiki.com) - website does not always work, their [docs](https://github.com/bigtreetech/docs/tree/master/docs) repo has the same contents
 - LDO [Wiki](https://docs.ldomotors.com/) - documentation for LDO kits and parts, no github links for the wiki pages
+- [Prusa](https://forum.prusa3d.com/?language=en&_gl=1%2A1p5jiaf%2A_ga%2AMTA4NjkzNDY1OC4xNjkwMzAzOTcx%2A_ga_3HK7B7RT5V%2AMTcxMjY3MzA0Ni4xNTYuMC4xNzEyNjczMDQ2LjYwLjAuMA..) Forum
 - Ratos [Config](https://github.com/Rat-OS/RatOS-configuration) examples
 - Voron Design [Forum](https://forum.vorondesign.com/)
 
@@ -107,10 +110,11 @@ Title: Manuals, Guides, and where to Buy
 #### Printheads
 - [Afterburner](https://github.com/VoronDesign/Voron-Afterburner/tree/afterburner) - [manual](https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/Manual/Afterburner.pdf)
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) - multiple printers, hotends, extruders supported.
-- [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 - [EVA](https://main.eva-3d.page/)
 - [RatRig Toolhead](https://docs.ratrig.com/v-core-3-1/ratrig-toolhead-v1-0-upgrade)
+- [Stealthburner](https://github.com/Mellow-3D/Klipper-CAN-Toolboards)
 - Vz-Printhead - [Printed](https://github.com/VzBoT3D/Vz-Printhead-Printed)/[CNC](https://github.com/VzBoT3D/Vz-Printhead-CNC)
+- [XOL](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) - formerly the Mantis printhead
 
 #### Raspberry Pi
 - [Main Site](https://www.raspberrypi.com/documentation/) - documentation and configuration guies, datasheets, tutorials
