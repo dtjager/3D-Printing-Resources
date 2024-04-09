@@ -40,7 +40,6 @@ theme:
 plugins:
   - social
   - search
-  - optimize
   - git-revision-date-localized:
       enable_creation_date: true
   
