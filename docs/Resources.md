@@ -118,12 +118,19 @@ Title: Manuals, Guides, and where to Buy
 
 #### Raspberry Pi
 - [Main Site](https://www.raspberrypi.com/documentation/) - documentation and configuration guies, datasheets, tutorials
-- [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
 - [Pinout Diagram](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html) - GPIO can be used with Klipper
 - Where to buy - Stock can be hard to find, check [rpilocator](https://rpilocator.com/), [Microcenter](https://www.microcenter.com/search/search_results.aspx?Ntk=all&sortby=match&N=4294910344+4294819333+4294818256&myStore=true), or [Amazon](https://amzn.to/4cujmH0)
 - Alternatives
   - [BTT-Pi](https://github.com/bigtreetech/BTT-Pi)
   - [Orange Pi](https://amzn.to/3TK4X0S) - many variants to choose from
+- Helpful Programs
+  - [Balena Etcher](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiEuuehrMSFAxX_IDQIHWvHAEQQFnoECAcQAQ&url=https%3A%2F%2Fetcher.balena.io%2F&usg=AOvVaw3qmwskOrLYXXgXtycdQXNa&opi=89978449) - flash OS images to USB/SD, alternative to Raspi Imager
+  - [Filezilla](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjj8dmsq8SFAxVXDjQIHeJ3C4cQFnoECAYQAQ&url=https%3A%2F%2Ffilezilla-project.org%2F&usg=AOvVaw0vUm4-x_Jtf5eF3tpKkxjC&opi=89978449) - remotely add/remove files from your raspberry pi (or other network devices)
+  - [Format USB](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiK3rySq8SFAxWdGDQIHdv0DG8QFnoECBoQAQ&url=https%3A%2F%2Fformatusb.com%2F&usg=AOvVaw1uw037qFX_yHGJs0T7_sSc&opi=89978449) - fast and easy way to format USB/SD devices
+  - [Notepad++](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjPtOHcq8SFAxVjl4kEHee9BBAQFnoECBoQAQ&url=https%3A%2F%2Fnotepad-plus-plus.org%2F&usg=AOvVaw0iXSCYMB4lh5GlGEAEs2Jd&opi=89978449) - similar to notepad, more powerful and has plugins for many filetypes
+  - [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
+  - [Putty](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjAtLXCq8SFAxVlHTQIHU_FDccQFnoECBYQAQ&url=https%3A%2F%2Fwww.putty.org%2F&usg=AOvVaw0iOGrunharr0YuZtN9wsn1&opi=89978449) - ssh client
+  - [Visual Studio Code](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiNnNryq8SFAxWDkYkEHWo3DAsQFnoECAYQAQ&url=https%3A%2F%2Fcode.visualstudio.com%2F&usg=AOvVaw15O90sm1ios8AUpw56hCml&opi=89978449) - edit code and files, ssh client, the do-everything tool. 
 
 #### Toolhead Boards
 - [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
