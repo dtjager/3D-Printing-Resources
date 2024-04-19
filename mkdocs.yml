@@ -52,6 +52,8 @@ extra:
       link: https://github.com/dtjager
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/u/dtjager
+    - icon: fontawesome/icons/user
+      link: https://www.teamfdm.com/profile/13021-d__j/
 
 markdown_extensions:
   - pymdownx.highlight:
