@@ -52,8 +52,8 @@ extra:
       link: https://github.com/dtjager
     - icon: fontawesome/brands/reddit
       link: https://reddit.com/u/dtjager
-    - icon: fontawesome/icons/user
-      link: https://www.teamfdm.com/profile/13021-d__j/
+    # - icon: fontawesome/icons/user
+    #   link: https://www.teamfdm.com/profile/13021-d__j/
     - icon: fontawesome/brands/discord
       link: https://www.discord.com/users/d__J
 
