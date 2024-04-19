@@ -36,13 +36,15 @@ Title: Manuals, Guides, and where to Buy
 - LDO [Wiki](https://docs.ldomotors.com/) - documentation for LDO kits and parts, no github links for the wiki pages
 - [Prusa](https://forum.prusa3d.com/?language=en&_gl=1%2A1p5jiaf%2A_ga%2AMTA4NjkzNDY1OC4xNjkwMzAzOTcx%2A_ga_3HK7B7RT5V%2AMTcxMjY3MzA0Ni4xNTYuMC4xNzEyNjczMDQ2LjYwLjAuMA..) Forum
 - Ratos [Config](https://github.com/Rat-OS/RatOS-configuration) examples
+- [TeamFDM](https://www.teamfdm.com/) - mostly directed to Voron builds, but a wealth of information that can be useful for many printers
 - Voron Design [Forum](https://forum.vorondesign.com/)
 
 #### Hotends
+- [Bambu Hotend](https://store.bambulab.com/collections/bambu-hotends/products/hotend-with-nozzle) - Cheaper alternative with decent performace, a variation of most printheads are starting to support this.
 - [neXt-G-Hotend](https://github.com/Dropeffect/neXt-G-Hotend)
 - [Revo Ecosystem](https://e3d-online.zendesk.com/hc/en-us/categories/6051537794333-Revo-Support) - E3D Revo Line
-- [Slice Engineering](https://support.sliceengineering.com/portal/en/kb/slice-engineering) - Mosquito Hotends
 - [Phaetus](https://github.com/Phaetus?tab=repositories) - Search for the repo of the hotend you have.
+- [Slice Engineering](https://support.sliceengineering.com/portal/en/kb/slice-engineering) - Mosquito Hotends
 - [XG-Hotend](https://github.com/Dropeffect/XG-Hotend)
 
 #### Input Shaper Boards
@@ -73,7 +75,7 @@ Title: Manuals, Guides, and where to Buy
     - [Voron 0](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Firmware/bigtreetech-manta-m4p.cfg)
 - [M5P](https://github.com/bigtreetech/docs/blob/master/docs/M5P.md)
 - [M8P](https://github.com/bigtreetech/docs/blob/master/docs/M8P.md)
-    - [Voron Trident](https://github.com/VoronDesign/Voron-Trident/blob/main/Firmware/M8P/Trident_M8P_config.cfg). [Voron 2.4](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/M8P)
+    - [Voron Trident](https://github.com/VoronDesign/Voron-Trident/blob/main/Firmware/M8P/Trident_M8P_config.cfg). [Voron 2.4](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/M8P), [Salad Fork](https://github.com/PrintersForAnts/Salad_Fork/blob/master/config/printer.cfg-m8p_with_ebb36_sample.cfg)
 - [Mellow Fly Gemini V3](https://github.com/Mellow-3D/Fly-Gemini-V3)
     - [Voron 0](https://github.com/VoronDesign/Voron-0/blob/Voron0.2r1/Firmware/mellow-fly-gemini-v3.cfg)
 - [Mellow Fly Super 8](https://github.com/Mellow-3D/Fly-Super8)
@@ -83,7 +85,7 @@ Title: Manuals, Guides, and where to Buy
 - [Octopus Pro](https://github.com/bigtreetech/docs/blob/master/docs/Octopus%20Pro.md) - Check board version V1.0, V1.0.1, V1.1
 - [Octopus MAZX EZ](https://github.com/bigtreetech/docs/blob/master/docs/Octopus%20MAX%20EZ.md)
 - [Octopus](https://github.com/bigtreetech/docs/blob/master/docs/Octopus.md)
-    - [Voron Trident](https://github.com/VoronDesign/Voron-Trident/blob/main/Firmware/Octopus/Trident_Octopus_Config.cfg), [Voron 2.4](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/Octopus)
+    - [Voron Trident](https://github.com/VoronDesign/Voron-Trident/blob/main/Firmware/Octopus/Trident_Octopus_Config.cfg), [Voron 2.4](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/Octopus), [Micron](https://github.com/PrintersForAnts/Micron/blob/main/Firmware/Config/Octopus-V1-Printer.cfg)
 - [SKR V1.3/V1.4](https://github.com/bigtreetech/BIGTREETECH-SKR-V1.3)
     - Voron 2.4 [1.3](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/SKR_1.3)/[1.4](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations/SKR_1.4), [Voron Legacy SKR V1.3](https://github.com/VoronDesign/Voron-Legacy/blob/main/Firmware/skr_v1.3_config.cfg)
 - [SKR 3](https://github.com/bigtreetech/docs/blob/master/docs/SKR%203.md)
@@ -104,6 +106,7 @@ Title: Manuals, Guides, and where to Buy
 - LDO Motors Kits - [Vorons](https://docs.ldomotors.com/), [Milo](https://docs.ldomotors.com/en/milo/milov15)
 - RatRig Manuals - [RatRig V-Core 3.1](https://docs.ratrig.com/v-core-3-1/v-core-bom),[RatRig V-Minon](https://docs.ratrig.com/product-details/v-minion-1-0)
 - [Rolohaun 3D](https://www.rolohaun3d.ca/3d-printers) - manuals for Rolohaun printers, rotation distance calculator (e-steps), and klipper tips
+- [Printers for Ants](https://3dprintersforants.com/) - Manuals for Voron0 modifications. Also have some build references for scaled down 2.4 (Micron) and Trident (Salad Fork). Owned by [hartk](https://github.com/hartk1213).
 - [Prusa guides and manuals](https://help.prusa3d.com/category/assembly-manuals_272)
 - Voron Design Manuals - [Voron0](https://github.com/VoronDesign/Voron-0/raw/Voron0.2r1/Manuals/VORON_V0.2r1_Assembly_Manual.pdf), [Voron 2](https://github.com/VoronDesign/Voron-2/raw/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf), [Voron Trident](https://github.com/VoronDesign/Voron-Trident/raw/main/Manual/Frame_Upgrade_Trident.pdf)
 
@@ -124,13 +127,13 @@ Title: Manuals, Guides, and where to Buy
     - [BTT-Pi](https://github.com/bigtreetech/BTT-Pi)
     - [Orange Pi](https://amzn.to/3TK4X0S) - many variants to choose from
 - Helpful Programs
-    - [Balena Etcher](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiEuuehrMSFAxX_IDQIHWvHAEQQFnoECAcQAQ&url=https%3A%2F%2Fetcher.balena.io%2F&usg=AOvVaw3qmwskOrLYXXgXtycdQXNa&opi=89978449) - flash OS images to USB/SD, alternative to Raspi Imager
-    - [Filezilla](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjj8dmsq8SFAxVXDjQIHeJ3C4cQFnoECAYQAQ&url=https%3A%2F%2Ffilezilla-project.org%2F&usg=AOvVaw0vUm4-x_Jtf5eF3tpKkxjC&opi=89978449) - remotely add/remove files from your raspberry pi (or other network devices)
-    - [Format USB](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiK3rySq8SFAxWdGDQIHdv0DG8QFnoECBoQAQ&url=https%3A%2F%2Fformatusb.com%2F&usg=AOvVaw1uw037qFX_yHGJs0T7_sSc&opi=89978449) - fast and easy way to format USB/SD devices
-    - [Notepad++](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjPtOHcq8SFAxVjl4kEHee9BBAQFnoECBoQAQ&url=https%3A%2F%2Fnotepad-plus-plus.org%2F&usg=AOvVaw0iXSCYMB4lh5GlGEAEs2Jd&opi=89978449) - similar to notepad, more powerful and has plugins for many filetypes
+    - [Balena Etcher](https://etcher.balena.io/) - flash OS images to USB/SD, alternative to Raspi Imager
+    - [Filezilla](https://filezilla-project.org) - remotely add/remove files from your raspberry pi (or other network devices)
+    - [Format USB](https://formatusb.com) - fast and easy way to format USB/SD devices
+    - [Notepad++](https://notepad-plus-plus.org) - similar to notepad, more powerful and has plugins for many filetypes
     - [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
-    - [Putty](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjAtLXCq8SFAxVlHTQIHU_FDccQFnoECBYQAQ&url=https%3A%2F%2Fwww.putty.org%2F&usg=AOvVaw0iOGrunharr0YuZtN9wsn1&opi=89978449) - ssh client
-    - [Visual Studio Code](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiNnNryq8SFAxWDkYkEHWo3DAsQFnoECAYQAQ&url=https%3A%2F%2Fcode.visualstudio.com%2F&usg=AOvVaw15O90sm1ios8AUpw56hCml&opi=89978449) - edit code and files, ssh client, the do-everything tool. 
+    - [Putty](https://www.putty.org) - ssh client
+    - [Visual Studio Code](https://code.visualstudio.com) - edit code and files, ssh client, the do-everything tool. 
 
 #### Toolhead Boards
 - [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
