@@ -22,6 +22,7 @@ Title: Where to Buy
 
 #### Tools
 Common tools required when building/maintaining a 3D printer. While this is not intended to be an exhaustive list, having the basics of each of these can make building and repairs much simpler to complete or diagnose.
+
 - 123 Blocks - [Toolly](https://amzn.to/3JpXKyd), not always necessary, but can be helpful to have a when squaring parts
 - Allen Wrenches - [Budget Option](https://amzn.to/3QaW3bA), [Higher Quality, WIHA](https://amzn.to/445dEYd)
 - Calipers - [Neiko](https://amzn.to/4441peq), super helpful for building to correct specs. [Alternatively](https://amzn.to/3xGa5fd), a metric ruler is helping for frame alightment, extruder step calibration, and ensuring gantry/hotend movement is accurate.
