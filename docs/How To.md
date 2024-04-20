@@ -17,5 +17,5 @@ Title: How To's
 - Install [Klipper](https://www.obico.io/blog/install-klipper-ender-3/) on a non-klipper printer - Ender 3 in this guide, basics will be the same
 - Teaching Tech - [Rat Rig V-Core 3 Build](https://www.obico.io/blog/install-klipper-ender-3/)
 - Integrate other servies with [Moonraker](https://moonraker.readthedocs.io/en/latest/configuration/)
-- Use [WLED](https://kno.wled.ge/) within Klipper - [Tutorial](https://github.com/Gliptopolis/WLED_Klipper)
+- Use [WLED](https://kno.wled.ge/) within Klipper - [Tutorial 1](https://github.com/dtjager/3D-Printing-Resources/blob/main/misc%20pages/WLED.md), [Tutorial 2](https://github.com/Gliptopolis/WLED_Klipper)
 - Use [Moonraker Timelapse](https://github.com/mainsail-crew/moonraker-timelapse) to get timelapse footage of prints using a camera connected to your printer
