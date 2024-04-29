@@ -49,7 +49,7 @@ Title: Manuals, Guides, and where to Buy
 
 #### Input Shaper Boards
 - [BTT USB ADLX345](https://cdn.shopify.com/s/files/1/1619/4791/files/BIGTREETECH_ADXL345_V2.0_User_Manual.pdf?v=1694085087) - [Amazon](https://amzn.to/3VBDH7c)
-- [DIY ADXL345](https://amzn.to/3TvEO5P) - not terrible difficult to setup, mainboard manuals sometimes have the wiring diagram
+- [DIY ADXL345](https://amzn.to/3TvEO5P) - not terrible difficult to setup, mainboard manuals sometimes have the wiring diagram. If you opt to use a raspberry pi or pi pico, [here](https://www.klipper3d.org/Measuring_Resonances.html#adxl345) is the official klipper documentation for setup
 - [Fysetc Portable Input Shaper](https://github.com/FYSETC/FYSETC-PortableInputShaper/blob/main/README.md) - [Amazon](https://amzn.to/43uNPAN)
 - Note: it is not uncommon for toolhead boards to have input shaping built-in, check that out if you are buying one, you may not need another board.
 
@@ -128,6 +128,7 @@ Title: Manuals, Guides, and where to Buy
     - [Orange Pi](https://amzn.to/3TK4X0S) - many variants to choose from
 - Helpful Programs
     - [Balena Etcher](https://etcher.balena.io/) - flash OS images to USB/SD, alternative to Raspi Imager
+    - [Chrome Secure Shell](https://chromewebstore.google.com/detail/secure-shell/iodihamcpbpeioajjeobimgagajmlibd) - SSH extension for chrome, just type "ssh" followed by target in a new tab or window
     - [Filezilla](https://filezilla-project.org) - remotely add/remove files from your raspberry pi (or other network devices)
     - [Format USB](https://formatusb.com) - fast and easy way to format USB/SD devices
     - [Notepad++](https://notepad-plus-plus.org) - similar to notepad, more powerful and has plugins for many filetypes

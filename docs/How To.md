@@ -4,8 +4,6 @@ Title: How To's
 - [Boot raspberry pi from SSD](https://www.makeuseof.com/how-to-boot-raspberry-pi-ssd-permanent-storage/) - if you already have a setup running off of SD, you can clone the SSD from that.
 - [KlipperScreen](https://klipperscreen.github.io/KlipperScreen/Installation/) installation (can be done via Kiauh) - installation and setup of klipperscreen, also includes directions for installing on an android phone
 - [Kiauh](https://github.com/dw-0/kiauh) - simplified install of multiple servies
-- [Made with Layers](https://www.youtube.com/watch?v=EYEi2vTkzhw&list=PLDJMid0lOOYnIDwhpx7VdRdkhYRRoJeht) - Voron 2.4 live build stream
-- [Nero3D](https://www.youtube.com/playlist?list=PL7zrGeKp_8CQr1kje-J2xX_pxr_M92t01) - Voron 2.4 live build stream. Live streams for many builds that can be referenced.
 - [USB input shaper](https://www.youtube.com/watch?v=W_VHbT_tsZw&t=584s)
 - [Sensorless Homing](https://github.com/VoronDesign/Voron-Documentation/blob/main/community/howto/clee/sensorless_xy_homing.md)
 - [SSH](https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/ssh.md) - basics and setup (TIP: Use a memorable hostname when flashing SD card such as "voron", you can ssh into it then at "voron.local" without needing to know the IP adress
@@ -19,3 +17,12 @@ Title: How To's
 - Integrate other servies with [Moonraker](https://moonraker.readthedocs.io/en/latest/configuration/)
 - Use [WLED](https://kno.wled.ge/) within Klipper - [Tutorial 1](https://github.com/dtjager/3D-Printing-Resources/blob/main/misc%20pages/WLED.md), [Tutorial 2](https://github.com/Gliptopolis/WLED_Klipper)
 - Use [Moonraker Timelapse](https://github.com/mainsail-crew/moonraker-timelapse) to get timelapse footage of prints using a camera connected to your printer
+- Youtube:
+    Many build streams in the below for many different printers. Also a great resource for specific howto videos.
+    - [CNC Kitchen](https://www.youtube.com/@CNCKitchen) - 3d printer technology research, comparison and testing
+    - [Made with Layers](https://www.youtube.com/@MadeWithLayers) - a few build streams, comparison and testing
+    - [Makers Muse](https://www.youtube.com/@MakersMuse) - general 3d printing applications, how to
+    - [Mandic Really](https://www.youtube.com/@MandicReally) - modifications, builds, applications of 3D prints
+    - [Modbot](https://www.youtube.com/@ModBotArmy) - modifications, how to videos, reviews
+    - [Nero3D](https://www.youtube.com/@CanuckCreator) - modifications, how to videos, reviews, build streams
+    - [Steve Builds](https://www.youtube.com/@SteveBuilds) - build and modification streams
