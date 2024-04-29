@@ -23,6 +23,7 @@ Title: How To's
     - [Made with Layers](https://www.youtube.com/@MadeWithLayers) - a few build streams, comparison and testing
     - [Makers Muse](https://www.youtube.com/@MakersMuse) - general 3d printing applications, how to
     - [Mandic Really](https://www.youtube.com/@MandicReally) - modifications, builds, applications of 3D prints
+    - [Maple Leaf Makers](https://www.youtube.com/@MapleLeafMakers/featured) - short, to the point video's of modifications and build's/how to's
     - [Modbot](https://www.youtube.com/@ModBotArmy) - modifications, how to videos, reviews
     - [Nero3D](https://www.youtube.com/@CanuckCreator) - modifications, how to videos, reviews, build streams
     - [Steve Builds](https://www.youtube.com/@SteveBuilds) - build and modification streams
