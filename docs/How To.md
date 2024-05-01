@@ -28,7 +28,6 @@ Title: How To's (updates pending)
 - Use Raspberry Pi GPIO with [Klipper](https://www.klipper3d.org/RPi_microcontroller.html)
 
 #### Youtube Resources
-Many build streams in the below for many different printers. Also a great resource for specific how to videos.
 - [CNC Kitchen](https://www.youtube.com/@CNCKitchen) - 3d printer technology research, comparison and testing
 - [Made with Layers](https://www.youtube.com/@MadeWithLayers) - a few build streams, comparison and testing
 - [Makers Muse](https://www.youtube.com/@MakersMuse) - general 3d printing applications, how to
