@@ -109,6 +109,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#building" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -482,6 +487,17 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    How To
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -491,6 +507,68 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#building" class="md-nav__link">
+    <span class="md-ellipsis">
+      Building
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#software" class="md-nav__link">
+    <span class="md-ellipsis">
+      Software
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tuning" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tuning
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#klipper-moonraker-integrations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Klipper / Moonraker Integrations
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#youtube-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Youtube Resources
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -700,6 +778,59 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#building" class="md-nav__link">
+    <span class="md-ellipsis">
+      Building
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#software" class="md-nav__link">
+    <span class="md-ellipsis">
+      Software
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tuning" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tuning
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#klipper-moonraker-integrations" class="md-nav__link">
+    <span class="md-ellipsis">
+      Klipper / Moonraker Integrations
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#youtube-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Youtube Resources
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -718,36 +849,44 @@
 
   <h1>How To</h1>
 
-<ul>
-<li><a href="https://www.makeuseof.com/how-to-boot-raspberry-pi-ssd-permanent-storage/">Boot raspberry pi from SSD</a> - if you already have a setup running off of SD, you can clone the SSD from that.</li>
-<li><a href="https://klipperscreen.github.io/KlipperScreen/Installation/">KlipperScreen</a> installation (can be done via Kiauh) - installation and setup of klipperscreen, also includes directions for installing on an android phone</li>
-<li><a href="https://github.com/dw-0/kiauh">Kiauh</a> - simplified install of multiple servies</li>
-<li><a href="https://www.youtube.com/watch?v=W_VHbT_tsZw&amp;t=584s">USB input shaper</a></li>
-<li><a href="https://github.com/VoronDesign/Voron-Documentation/blob/main/community/howto/clee/sensorless_xy_homing.md">Sensorless Homing</a></li>
-<li><a href="https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/ssh.md">SSH</a> - basics and setup (TIP: Use a memorable hostname when flashing SD card such as "voron", you can ssh into it then at "voron.local" without needing to know the IP adress</li>
-<li>Webcam in <a href="https://docs.fluidd.xyz/features/cameras">Fluidd</a> - supports most USB webcams (may require <a href="https://docs.fluidd.xyz/features/cameras#crowsnest-support">crowsnest</a>)</li>
-<li>Webcam in <a href="https://docs.mainsail.xyz/overview/settings/webcams">Mainsail</a> - supports most USB webcams (may require <a href="https://crowsnest.mainsail.xyz/">crowsnest</a>)</li>
-<li><a href="https://www.raspberrypi.com/documentation/accessories/camera.html">Raspberry Pi Camera Module</a></li>
-<li><a href="https://staubgeborener.github.io/klipper-backup/">Klipper-Backup</a> - backup your printer config to a repo. Helpful if you need to go back to a working state.</li>
-<li>Klipper <a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging">KAMP</a> - Klipper Adaptive Meshing Purging, bed mesh of only where printed parts will be.</li>
-<li>Install <a href="https://www.obico.io/blog/install-klipper-ender-3/">Klipper</a> on a non-klipper printer - Ender 3 in this guide, basics will be the same</li>
-<li>Teaching Tech - <a href="https://www.obico.io/blog/install-klipper-ender-3/">Rat Rig V-Core 3 Build</a></li>
-<li>Integrate other servies with <a href="https://moonraker.readthedocs.io/en/latest/configuration/">Moonraker</a></li>
-<li>Use <a href="https://kno.wled.ge/">WLED</a> within Klipper - <a href="https://github.com/dtjager/3D-Printing-Resources/blob/main/misc%20pages/WLED.md">Tutorial 1</a>, <a href="https://github.com/Gliptopolis/WLED_Klipper">Tutorial 2</a></li>
-<li>Use <a href="https://github.com/mainsail-crew/moonraker-timelapse">Moonraker Timelapse</a> to get timelapse footage of prints using a camera connected to your printer</li>
-<li>Youtube:
-    Many build streams in the below for many different printers. Also a great resource for specific howto videos.<ul>
-<li><a href="https://www.youtube.com/@CNCKitchen">CNC Kitchen</a> - 3d printer technology research, comparison and testing</li>
-<li><a href="https://www.youtube.com/@MadeWithLayers">Made with Layers</a> - a few build streams, comparison and testing</li>
-<li><a href="https://www.youtube.com/@MakersMuse">Makers Muse</a> - general 3d printing applications, how to</li>
-<li><a href="https://www.youtube.com/@MandicReally">Mandic Really</a> - modifications, builds, applications of 3D prints</li>
-<li><a href="https://www.youtube.com/@MapleLeafMakers/featured">Maple Leaf Makers</a> - short, to the point video's of modifications and build's/how to's</li>
-<li><a href="https://www.youtube.com/@ModBotArmy">Modbot</a> - modifications, how to videos, reviews</li>
-<li><a href="https://www.youtube.com/@CanuckCreator">Nero3D</a> - modifications, how to videos, reviews, build streams</li>
-<li><a href="https://www.youtube.com/@SteveBuilds">Steve Builds</a> - build and modification streams</li>
-</ul>
-</li>
-</ul>
+<h3 id="building">Building</h3>
+<div class="highlight"><pre><span></span><code>- Voron [Sourcing and Buying FAQ](https://docs.vorondesign.com/sourcing_faq.html) - super helpful for buying anything that will be used for 3d printer parts/builds
+- voron mechanical assembly [tips](https://docs.vorondesign.com/build/mechanical/) - helpful tips for building, and general considerations for maintenance time
+</code></pre></div>
+<h3 id="software">Software</h3>
+<div class="highlight"><pre><span></span><code>- [Kiauh](https://github.com/dw-0/kiauh) - simplified install of multiple services
+- [SSH](https://github.com/VoronDesign/Voron-Documentation/blob/main/build/software/ssh.md) - basics and setup (TIP: Use a memorable hostname when flashing SD card such as &quot;voron&quot;, you can ssh into it then at &quot;voron.local&quot; without needing to know the IP adress
+- [Boot raspberry pi from SSD](https://www.makeuseof.com/how-to-boot-raspberry-pi-ssd-permanent-storage/) - if you already have a setup running off of SD, you can clone the SSD from that.
+- [KlipperScreen](https://klipperscreen.github.io/KlipperScreen/Installation/) installation (can be done via Kiauh) - installation and setup of klipperscreen, also includes directions for installing on an android phone
+- [Raspberry Pi Camera Module](https://www.raspberrypi.com/documentation/accessories/camera.html)
+- Webcam in [Fluidd](https://docs.fluidd.xyz/features/cameras) - supports most USB webcams (may require [crowsnest](https://docs.fluidd.xyz/features/cameras#crowsnest-support))
+- Webcam in [Mainsail](https://docs.mainsail.xyz/overview/settings/webcams) - supports most USB webcams (may require [crowsnest](https://crowsnest.mainsail.xyz/))
+</code></pre></div>
+<h3 id="tuning">Tuning</h3>
+<div class="highlight"><pre><span></span><code>- [USB input shaper](https://www.youtube.com/watch?v=W_VHbT_tsZw&amp;t=584s)
+- [Sensorless Homing](https://github.com/VoronDesign/Voron-Documentation/blob/main/community/howto/clee/sensorless_xy_homing.md)
+</code></pre></div>
+<h3 id="klipper-moonraker-integrations">Klipper / Moonraker Integrations</h3>
+<div class="highlight"><pre><span></span><code>- Integrate other servies with [Moonraker](https://moonraker.readthedocs.io/en/latest/configuration/)
+- [Klipper-Backup](https://staubgeborener.github.io/klipper-backup/) - backup your printer config to a repo. Helpful if you need to go back to a working state.
+- Klipper [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - Klipper Adaptive Meshing Purging, bed mesh of only where printed parts will be.
+- Install [Klipper](https://www.obico.io/blog/install-klipper-ender-3/) on a non-klipper printer - Ender 3 in this guide, basics will be the same
+- Use [WLED](https://kno.wled.ge/) within Klipper - [Tutorial 1](https://github.com/dtjager/3D-Printing-Resources/blob/main/misc%20pages/WLED.md), [Tutorial 2](https://github.com/Gliptopolis/WLED_Klipper)
+- Use [Moonraker Timelapse](https://github.com/mainsail-crew/moonraker-timelapse) to get timelapse footage of prints using a camera connected to your printer
+- Use Raspberry Pi GPIO with [Klipper](https://www.klipper3d.org/RPi_microcontroller.html)
+</code></pre></div>
+<h3 id="youtube-resources">Youtube Resources</h3>
+<div class="highlight"><pre><span></span><code>Many build streams in the below for many different printers. Also a great resource for specific how to videos.
+- [CNC Kitchen](https://www.youtube.com/@CNCKitchen) - 3d printer technology research, comparison and testing
+- [Made with Layers](https://www.youtube.com/@MadeWithLayers) - a few build streams, comparison and testing
+- [Makers Muse](https://www.youtube.com/@MakersMuse) - general 3d printing applications, how to
+- [Mandic Really](https://www.youtube.com/@MandicReally) - modifications, builds, applications of 3D prints
+- [Maple Leaf Makers](https://www.youtube.com/@MapleLeafMakers/featured) - short, to the point video&#39;s of modifications and build&#39;s/how to&#39;s
+- [Modbot](https://www.youtube.com/@ModBotArmy) - modifications, how to videos, reviews
+- [Nero3D](https://www.youtube.com/@CanuckCreator) - modifications, how to videos, reviews, build streams
+- [Steve Builds](https://www.youtube.com/@SteveBuilds) - build and modification streams
+- [Teaching Tech](https://www.youtube.com/@TeachingTech) - Build logs, how to videos. Great resrouce for all skill levels.
+</code></pre></div>
 
 
 
@@ -770,7 +909,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">April 29, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">May 1, 2024</span>
   </span>
 
     
