@@ -96,6 +96,7 @@ Title: Manuals, Guides, and where to Buy
 #### Probes
 - [Beacon](https://docs.beacon3d.com/) Probe - [Beacon Store](https://beacon3d.com/store/)
 - [BLTouch](https://www.antclabs.com/bltouch) - they sell officially on [Amazon](https://amzn.to/3vC5ZDW) and Ebay
+- [BTT Eddy](https://github.com/bigtreetech/Eddy) - BTT eddy current probe
 - [Cartographer](https://docs.cartographer3d.com/)
 - [Euclid Probe](https://github.com/nionio6915/Euclid_Probe)
 - [Klicky-Probe](https://github.com/jlas1/Klicky-Probe) - dockable probe
