@@ -1,6 +1,11 @@
 ---
 Title: Manuals, Guides, and where to Buy
 ---
+#### CAD
+- [TinkerCad](https://www.tinkercad.com/) - very basic, good place to learn some basics and design approaches
+- [Fusion360](https://www.autodesk.com/products/fusion-360/personal) - free for personal use, features limited on free tier
+- [Onshape](https://www.onshape.com/en/) - web based. free tier involves all models being public.
+  
 #### Camera Setup
 - In [Fluidd](https://docs.fluidd.xyz/features/cameras) - supports most USB webcams (may require [crowsnest](https://docs.fluidd.xyz/features/cameras#crowsnest-support))
 - In [Mainsail](https://docs.mainsail.xyz/overview/settings/webcams) - supports most USB webcams (may require [crowsnest](https://crowsnest.mainsail.xyz/))
@@ -135,7 +140,14 @@ Title: Manuals, Guides, and where to Buy
     - [Notepad++](https://notepad-plus-plus.org) - similar to notepad, more powerful and has plugins for many filetypes
     - [Raspi Imager](https://www.raspberrypi.com/software/) - easy creation of SD cards for raspi
     - [Putty](https://www.putty.org) - ssh client
-    - [Visual Studio Code](https://code.visualstudio.com) - edit code and files, ssh client, the do-everything tool. 
+    - [Visual Studio Code](https://code.visualstudio.com) - edit code and files, ssh client, the do-everything tool.
+ 
+#### Slicers
+- Cura
+- Prusaslicer
+- Orcaslicer
+- Bambu Studio
+- Slic3r
 
 #### Toolhead Boards
 - [Esoterical's CANBUS Guide](https://canbus.esoterical.online/) - Great guide on how canbus works and setup, many examples
